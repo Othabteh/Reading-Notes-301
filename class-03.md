@@ -34,4 +34,4 @@ Properies for Children - Flex Items
 [Link to Tutorial](https://flexboxfroggy.com/)
 
 Completed Tutorial
-![Completed Tutorial](img/flexboxFroggy.PNG)
+![Completed Tutorial](https://miro.medium.com/max/4576/1*FW6ibVYMeMPhVHQSR_kdSQ.png)
