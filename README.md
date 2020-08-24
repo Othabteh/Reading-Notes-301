@@ -6,7 +6,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | -------------------------------- | --------------------------------------------------------------- |
 | SMACSS and Responsive Web Design | [Read 1](https://othabteh.github.io/Reading-notes-301/class-01) |
 | jQuery, Events, and The DOM| [Read 2](https://othabteh.github.io/Reading-notes-301/class-02)       |
-| Read3                            | [Read 3]()                                                      |
+| MUSTACHE and FLEXBOX             | [Read 3](https://othabteh.github.io/Reading-notes-301/class-03) |
 | Read4                            | [Read 4]()                                                      |
 | Read5                            | [Read 5]()                                                      |
 | Read6                            | [Read 6]()                                                      |
