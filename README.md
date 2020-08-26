@@ -8,7 +8,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | jQuery, Events, and The DOM| [Read 2](https://othabteh.github.io/Reading-notes-301/class-02)       |
 | MUSTACHE and FLEXBOX             | [Read 3](https://othabteh.github.io/Reading-notes-301/class-03) |
 | Responsive Web Design and Regular Expressions                            | [Read 4](https://othabteh.github.io/Reading-notes-301/class-04)                                                      |
-| Read5                            | [Read 5]()                                                      |
+| HEROKU                            | [Read 5](https://othabteh.github.io/Reading-notes-301/class-05)                                                      |
 | Read6                            | [Read 6]()                                                      |
 | Read7                            | [Read 7]()                                                      |
 | Read8                            | [Read 8]()                                                      |
