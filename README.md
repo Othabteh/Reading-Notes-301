@@ -9,7 +9,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | MUSTACHE and FLEXBOX             | [Read 3](https://othabteh.github.io/Reading-notes-301/class-03) |
 | Responsive Web Design and Regular Expressions                            | [Read 4](https://othabteh.github.io/Reading-notes-301/class-04)                                                      |
 | HEROKU                            | [Read 5](https://othabteh.github.io/Reading-notes-301/class-05)                                                      |
-| Read6                            | [Read 6]()                                                      |
+| NODE.JS                            | [Read 6](https://othabteh.github.io/Reading-notes-301/class-06)                                                      |
 | Read7                            | [Read 7]()                                                      |
 | Read8                            | [Read 8]()                                                      |
 | Read9                            | [Read 9]()                                                      |

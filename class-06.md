@@ -29,5 +29,5 @@ These build tools come in all shapes and sizes, and you won’t get far in a mod
 And if you want to start developing apps with any modern JavaScript framework (for example, React or Angular), you’ll be expected to have a working knowledge of Node and npm (or maybe Yarn). This isn’t because you need a Node back end to run these frameworks. You don’t. Rather, it’s because these frameworks (and many, many related packages) are all available via npm and rely on Node to create a sensible development environment in which they can run.
 
 
-![Node's execution model](./img/node_event_loop.png)
+![Node's execution model](./img/node_event_loop(1).png)
     - Node's execution model
