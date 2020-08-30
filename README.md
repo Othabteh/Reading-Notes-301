@@ -10,7 +10,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | Responsive Web Design and Regular Expressions                            | [Read 4](https://othabteh.github.io/Reading-notes-301/class-04)                                                      |
 | HEROKU                            | [Read 5](https://othabteh.github.io/Reading-notes-301/class-05)                                                      |
 | NODE.JS                            | [Read 6](https://othabteh.github.io/Reading-notes-301/class-06)                                                      |
-| Read7                            | [Read 7]()                                                      |
+| APIs continued                            | [Read 7](https://othabteh.github.io/Reading-notes-301/class-07)                                                      |
 | Read8                            | [Read 8]()                                                      |
 | Read9                            | [Read 9]()                                                      |
 | Read10                           | [Read 10]()                                                     |
