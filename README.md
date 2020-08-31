@@ -11,7 +11,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | HEROKU                            | [Read 5](https://othabteh.github.io/Reading-notes-301/class-05)                                                      |
 | NODE.JS                            | [Read 6](https://othabteh.github.io/Reading-notes-301/class-06)                                                      |
 | APIs continued                            | [Read 7](https://othabteh.github.io/Reading-notes-301/class-07)                                                      |
-| Read8                            | [Read 8]()                                                      |
+| SQL                            | [Read 8](https://othabteh.github.io/Reading-notes-301/class-08)                                                      |
 | Read9                            | [Read 9]()                                                      |
 | Read10                           | [Read 10]()                                                     |
 | Read11                           | [Read 11]()                                                     |
