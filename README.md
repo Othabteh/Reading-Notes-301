@@ -12,7 +12,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | NODE.JS                            | [Read 6](https://othabteh.github.io/Reading-notes-301/class-06)                                                      |
 | APIs continued                            | [Read 7](https://othabteh.github.io/Reading-notes-301/class-07)                                                      |
 | SQL                            | [Read 8](https://othabteh.github.io/Reading-notes-301/class-08)                                                      |
-| Read9                            | [Read 9]()                                                      |
+| Refactoring                            | [Read 9](https://othabteh.github.io/Reading-notes-301/class-09)                                                      |
 | Read10                           | [Read 10]()                                                     |
 | Read11                           | [Read 11]()                                                     |
 | Read12                           | [Read 12]()                                                     |
