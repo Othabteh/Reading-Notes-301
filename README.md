@@ -13,7 +13,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | APIs continued                            | [Read 7](https://othabteh.github.io/Reading-notes-301/class-07)                                                      |
 | SQL                            | [Read 8](https://othabteh.github.io/Reading-notes-301/class-08)                                                      |
 | Refactoring                            | [Read 9](https://othabteh.github.io/Reading-notes-301/class-09)                                                      |
-| Read10                           | [Read 10]()                                                     |
+|  The Call Stack and Debugging                           | [Read 10](https://othabteh.github.io/Reading-notes-301/class-10)                                                     |
 | Read11                           | [Read 11]()                                                     |
 | Read12                           | [Read 12]()                                                     |
 | Read13                           | [Read 13]()                                                     |
