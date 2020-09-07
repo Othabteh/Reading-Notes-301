@@ -15,7 +15,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | Refactoring                            | [Read 9](https://othabteh.github.io/Reading-notes-301/class-09)                                                      |
 |  The Call Stack and Debugging                           | [Read 10](https://othabteh.github.io/Reading-notes-301/class-10)                                                     |
 | EJS                           | [Read 11](https://othabteh.github.io/Reading-notes-301/class-11)                                                     |
-| Read12                           | [Read 12]()                                                     |
+| Components                           | [Read 12](https://othabteh.github.io/Reading-notes-301/class-12)                                                     |
 | Read13                           | [Read 13]()                                                     |
 | Read14a                          | [Read 14]()                                                     |
 | Read14b                          | [Read 14]()                                                     |
