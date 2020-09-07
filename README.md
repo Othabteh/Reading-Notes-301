@@ -17,7 +17,7 @@ this website is a Reading notes repo to hold my 301 reading notes
 | EJS                           | [Read 11](https://othabteh.github.io/Reading-notes-301/class-11)                                                     |
 | Components
                            | [Read 12](https://othabteh.github.io/Reading-notes-301/class-12)                                                     |
-| Read13                           | [Read 13]()                                                     |
+| SENDING FORM DATA                           | [Read 13](https://othabteh.github.io/Reading-notes-301/class-13)                                                     |
 | Read14a                          | [Read 14]()                                                     |
 | Read14b                          | [Read 14]()                                                     |
 | Read15                           | [Read 15]()                                                     |
