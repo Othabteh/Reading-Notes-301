@@ -19,4 +19,4 @@ this website is a Reading notes repo to hold my 301 reading notes
 | SENDING FORM DATA | [Read 13](https://othabteh.github.io/Reading-notes-301/class-13) |
 | DB Normalization| [Read 14](https://othabteh.github.io/Reading-notes-301/class-14a) |
 | Read14b                          | [Read 14]()                                                     |
-| Diversity and Inclusion                           | [Read 15]()                                                     |
+| Diversity and Inclusion | [Read 15]() |
